@@ -1,3 +1,6 @@
+ZkStudyClub: Polynomial Commitments with Justin Drake pt. 2
+- [cryptographic ingredient for universal SNARKs](https://www.youtube.com/watch?v=BfV7HBHXfC0&feature=youtu.be)
+
 Sonic 
 - [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
 - [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://eprint.iacr.org/2019/099.pdf)
