@@ -26,3 +26,15 @@ PLONK
 DARK 
 - [Transparent SNARKs from DARK Compilers](https://eprint.iacr.org/2019/1229.pdf)
 
+<big>**Thoughts**<big>
+Trade-offs between different options:
+  
+Universality for a polynomial commitment scheme : a polynomial commitment only proves one language
+
+Definition of soundness needs more thought : binding the maximum degree require variable degree bounds 
+
+Discussion of security models and hardness assumptions :
+
+Discussion of security and efficiency:
+
+
