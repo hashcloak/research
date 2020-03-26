@@ -26,6 +26,9 @@ PLONK
 DARK 
 - [Transparent SNARKs from DARK Compilers](https://eprint.iacr.org/2019/1229.pdf)
 
+MIRAGE
+- [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
+
 <big>**Thoughts**<big>
 Trade-offs between different options:
   
