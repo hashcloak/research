@@ -14,7 +14,7 @@ It's a trustless setup SNARK with *log(n)* proof size and *log(n)* verification,
 as well as 24 kb proof size for 1 million gate circuits.
 
 
-Marlin 
+Marlin  
 - [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047.pdf)
 - [Marlin: One of the fastest snarks in the ocean](https://www.benthamsgaze.org/2019/09/19/a-marlin-is-one-of-the-fastest-snarks-in-the-ocean/)
 
@@ -26,7 +26,7 @@ PLONK
 DARK 
 - [Transparent SNARKs from DARK Compilers](https://eprint.iacr.org/2019/1229.pdf)
 
-MIRAGE
+MIRAGE  
 - [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
 
 <big>**Thoughts**<big>  
@@ -40,23 +40,23 @@ Three flavours of general-purpose snarks:
   [Supersonic](https://eprint.iacr.org/2019/1229.pdf)
   
 Trade-offs between different options:
-- With *updatable* universal setups:
+- With *updatable* universal setups:  
   [Sonic](https://eprint.iacr.org/2019/099.pdf)  
   
-- With *non-updatable* universal setups:
+- With *non-updatable* universal setups:  
   [AuroraLight](https://eprint.iacr.org/2019/601.pdf)
   [Hyrax](https://eprint.iacr.org/2019/1132.pdf)
 
-- With transparent setups:
+- With transparent setups:  
   [Fractal](https://eprint.iacr.org/2019/1076.pdf)  
   [Halo](https://eprint.iacr.org/2019/1021.pdf)  
   [Supersonic](https://eprint.iacr.org/2019/1229.pdf)  
-  [Spartan](https://eprint.iacr.org/2019/550.pdf)
+  [Spartan](https://eprint.iacr.org/2019/550.pdf)  
   Adcantages : Relies on common reference string, public ,no toxic waste.  
-  Disadvantages : big proof size .
+  Disadvantages : big proof size .  
   
   
-Universality for a polynomial commitment scheme : 
+Universality for a polynomial commitment scheme :   
 - language-specific: a polynomial commitment only proves one language
 - Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)
 
