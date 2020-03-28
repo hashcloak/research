@@ -33,6 +33,8 @@ MIRAGE
 Trade-offs between different options:
   
 Universality for a polynomial commitment scheme : a polynomial commitment only proves one language
+- Speed up by multi-opening solution
+
 
 Definition of soundness needs more thought : binding the maximum degree require variable degree bounds 
 
