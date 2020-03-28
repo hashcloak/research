@@ -30,13 +30,28 @@ MIRAGE
 - [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
 
 <big>**Thoughts**<big>  
+Three flavours of general-purpose snarks:  
+- Powers of tau  
+  generating and safely disposing of toxic waste 
+  used by [Sonic](https://eprint.iacr.org/2019/099.pdf) and [PLONK](https://eprint.iacr.org/2019/953.pdf)
+- FRI-based 
+  [STARKs by STARKWARE](https://eprint.iacr.org/2018/046.pdf)
+  
 Trade-offs between different options:
-- With universal setups:
+- With *updatable* universal setups:
+
+- With *non-updatable* universal setups:
+  [AuroraLight](https://eprint.iacr.org/2019/601.pdf)
+  [Hyrax](https://eprint.iacr.org/2019/1132.pdf)
 
 - With transparent setups:
-  
-- Without setups:
+  [Fractal](https://eprint.iacr.org/2019/1076.pdf)  
+  [Halo](https://eprint.iacr.org/2019/1021.pdf)  
+  [Supersonic](https://eprint.iacr.org/2019/1229.pdf)  
   [Spartan](https://eprint.iacr.org/2019/550.pdf)
+  Adcantages : Relies on common reference string, public ,no toxic waste.  
+  Disadvantages : big proof size .
+  
   
 Universality for a polynomial commitment scheme : 
 - language-specific: a polynomial commitment only proves one language
