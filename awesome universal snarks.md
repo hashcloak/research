@@ -32,7 +32,8 @@ MIRAGE
 <big>**Thoughts**<big>  
 Trade-offs between different options:
   
-Universality for a polynomial commitment scheme : a polynomial commitment only proves one language
+Universality for a polynomial commitment scheme : 
+- language-specific: a polynomial commitment only proves one language
 - Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)
 
 
