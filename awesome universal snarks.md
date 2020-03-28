@@ -48,10 +48,10 @@ Trade-offs between different options:
   [Hyrax](https://eprint.iacr.org/2019/1132.pdf)
 
 - With transparent setups:  
-  [Fractal](https://eprint.iacr.org/2019/1076.pdf)  
-  [Halo](https://eprint.iacr.org/2019/1021.pdf)  
-  [Supersonic](https://eprint.iacr.org/2019/1229.pdf)  
-  [Spartan](https://eprint.iacr.org/2019/550.pdf)  
+  [Fractal](https://eprint.iacr.org/2019/1076.pdf),
+  [Halo](https://eprint.iacr.org/2019/1021.pdf),
+  [Supersonic](https://eprint.iacr.org/2019/1229.pdf),
+  [Spartan](https://eprint.iacr.org/2019/550.pdf),
   Adcantages : Relies on common reference string, public ,no toxic waste.  
   Disadvantages : big proof size .  
   
