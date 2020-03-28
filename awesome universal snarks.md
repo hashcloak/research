@@ -31,6 +31,12 @@ MIRAGE
 
 <big>**Thoughts**<big>  
 Trade-offs between different options:
+- With universal setups:
+
+- With transparent setups:
+  
+- Without setups:
+  [Spartan](https://eprint.iacr.org/2019/550.pdf)
   
 Universality for a polynomial commitment scheme : 
 - language-specific: a polynomial commitment only proves one language
