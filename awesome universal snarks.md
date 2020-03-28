@@ -30,16 +30,16 @@ MIRAGE
 - [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
 
 <big>**Thoughts**<big>  
-Three flavours of general-purpose snarks:  
+Three flavours of general-purpose snarks:    
 - Powers of tau  
   generating and safely disposing of toxic waste 
-  used by [Sonic](https://eprint.iacr.org/2019/099.pdf) and [PLONK](https://eprint.iacr.org/2019/953.pdf)
+  used by [Sonic](https://eprint.iacr.org/2019/099.pdf) and [PLONK](https://eprint.iacr.org/2019/953.pdf)  
 - FRI-based 
-  [STARKs by STARKWARE](https://eprint.iacr.org/2018/046.pdf)
+  [STARKs by STARKWARE](https://eprint.iacr.org/2018/046.pdf)  
 - RSA or class group 
   [Supersonic](https://eprint.iacr.org/2019/1229.pdf)
   
-Trade-offs between different options:
+Trade-offs between different options:  
 - With *updatable* universal setups:  
   [Sonic](https://eprint.iacr.org/2019/099.pdf)  
   
