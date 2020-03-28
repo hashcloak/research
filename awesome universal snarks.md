@@ -29,7 +29,7 @@ DARK
 MIRAGE
 - [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
 
-<big>**Thoughts**<big>
+<big>**Thoughts**<big>  
 Trade-offs between different options:
   
 Universality for a polynomial commitment scheme : a polynomial commitment only proves one language
