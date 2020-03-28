@@ -36,10 +36,13 @@ Three flavours of general-purpose snarks:
   used by [Sonic](https://eprint.iacr.org/2019/099.pdf) and [PLONK](https://eprint.iacr.org/2019/953.pdf)
 - FRI-based 
   [STARKs by STARKWARE](https://eprint.iacr.org/2018/046.pdf)
+- RSA or class group 
+  [Supersonic](https://eprint.iacr.org/2019/1229.pdf)
   
 Trade-offs between different options:
 - With *updatable* universal setups:
-
+  [Sonic](https://eprint.iacr.org/2019/099.pdf)  
+  
 - With *non-updatable* universal setups:
   [AuroraLight](https://eprint.iacr.org/2019/601.pdf)
   [Hyrax](https://eprint.iacr.org/2019/1132.pdf)
