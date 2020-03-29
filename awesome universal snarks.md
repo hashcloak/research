@@ -70,7 +70,7 @@ Discussion of universal succintness:
 
 
 Definition of soundness:  
--   __standard definition of special soundness：Interact arbitrarily with an update oracle to set the SRS __  
+- standard definition of special soundness：Interact arbitrarily with an update oracle to set the SRS
 -   __[interactive definition by Sonic,page 5](https://eprint.iacr.org/2019/099.pdf)__
     \- given an initial one and update in one-shot fashion.  
 Discussion of security models and hardness assumptions :
