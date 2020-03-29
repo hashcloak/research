@@ -71,12 +71,12 @@ Definition of soundness :
 - [interactive definition by Sonic](https://eprint.iacr.org/2019/099.pdf),page 5: given an initial one and update in one-shot fashion .
 
 Discussion of security models and hardness assumptions :
-- [updatable knowledge soundness](https://smeiklej.com/files/crypto18.pdf), page 22  
-- [KEA assumptions](https://smeiklej.com/files/crypto18.pdf),page 18  
+-   __[updatable knowledge soundness,page 22](https://smeiklej.com/files/crypto18.pdf)__  
+-   __[KEA assumptions,page 18](https://smeiklej.com/files/crypto18.pdf)__  
 
 Discussion of security and efficiency:  
 -   __[Proof of security,page 23](https://eprint.iacr.org/2014/580.pdf)__  
-    \ construct circuits of extraction,then prove it with satisfied properties.  
+    \- construct circuits of extraction,then prove it with satisfied properties.  
        enhance efficiency by applying "universal succintness".  
 
 
