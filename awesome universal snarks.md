@@ -65,7 +65,7 @@ Universality for a polynomial commitment scheme :
 - ____Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)____
 
 Discussion of universal succintness:
--   ___[universal arguments]:(https://eprint.iacr.org/2014/580.pdf),page 27____ 
+-   __[universal arguments]:(https://eprint.iacr.org/2014/580.pdf),page 27__
 -   \- needs future improvements.
 
 Definition of soundness:  
