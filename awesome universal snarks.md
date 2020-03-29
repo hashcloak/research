@@ -30,6 +30,7 @@ MIRAGE
 - [MIRAGE: Succinct Arguments for Randomized Algorithms with Applcations to Universal zk-SNARKs](https://eprint.iacr.org/2020/278.pdf)
 
 <big>**Thoughts**<big>  
+  
 Three flavours of general-purpose snarks:    
 - Powers of tau  
   generating and safely disposing of toxic waste 
@@ -60,13 +61,13 @@ Trade-offs between different options:
   
   
 Universality for a polynomial commitment scheme :   
-- ___language-specific: a polynomial commitment only proves one language___
+- language-specific: a polynomial commitment only proves one language
 
-- ____Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)____
 
 Discussion of universal succintness:
--   __[universal arguments]:(https://eprint.iacr.org/2014/580.pdf),page 27__
--   \- needs future improvements.
+-   __[universal arguments,page 27](https://eprint.iacr.org/2014/580.pdf)__  
+    \- needs future improments.  
+
 
 Definition of soundness:  
 -   __standard definition of special soundness：Interact arbitrarily with an update oracle to set the SRS __  
