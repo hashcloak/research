@@ -76,7 +76,7 @@ Discussion of security models and hardness assumptions :
 
 Discussion of security and efficiency:  
 -   __[Proof of security,page 23](https://eprint.iacr.org/2014/580.pdf)__  
-    \-construct circuits of extraction,then prove it with satisfied properties.  
+    \ construct circuits of extraction,then prove it with satisfied properties.  
        enhance efficiency by applying "universal succintness".  
 
 
