@@ -64,9 +64,12 @@ Universality for a polynomial commitment scheme :
 - Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)
 
 
-Definition of soundness needs more thought : binding the maximum degree require variable degree bounds 
+Definition of soundness needs more thought :
+- standard definition of special soundness : Interact arbitrarily with an update oracle to set the SRS .
+- [interactive definition by Sonic](https://eprint.iacr.org/2019/099.pdf),page 5: given an initial one and update in one-shot fashion .
 
 Discussion of security models and hardness assumptions :
+- [updatable knowledge soundness]https://smeiklej.com/files/crypto18.pdf), page 22 
 
 Discussion of security and efficiency:
 
