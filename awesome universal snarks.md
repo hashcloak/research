@@ -80,4 +80,10 @@ Discussion of security and efficiency:
   enhance efficiency by applying "universal succintness"  
 
 
+-   __Zero-knowledge__
+    \- the verifier learns nothing from the proof beside the truth of the statement (i.e., the value _qux_, in the examples above, remains secret).
+
+
+
+
 
