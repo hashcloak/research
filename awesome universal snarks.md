@@ -74,14 +74,10 @@ Discussion of security models and hardness assumptions :
 - [updatable knowledge soundness](https://smeiklej.com/files/crypto18.pdf), page 22  
 - [KEA assumptions](https://smeiklej.com/files/crypto18.pdf),page 18  
 
-Discussion of security and efficiency:
-- [Proof of security](https://eprint.iacr.org/2014/580.pdf),page 23  
-  construct circuits of extraction,then prove it with satisfied properties .  
-  enhance efficiency by applying "universal succintness"  
-
-
--   __Zero-knowledge__
-    \- the verifier learns nothing from the proof beside the truth of the statement (i.e., the value _qux_, in the examples above, remains secret).
+Discussion of security and efficiency: 
+-   __[Proof of security](https://eprint.iacr.org/2014/580.pdf)__
+    \- construct circuits of extraction,then prove it with satisfied properties.  
+       enhance efficiency by applying "universal succintness".  
 
 
 
