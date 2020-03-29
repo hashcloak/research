@@ -47,7 +47,7 @@ Trade-offs between different options:
 - With *non-updatable* universal setups:  
   [AuroraLight](https://eprint.iacr.org/2019/601.pdf)
   [Hyrax](https://eprint.iacr.org/2019/1132.pdf)
-  [Libra](Libra: Succinct Zero-Knowledge Proofs with Optimal ProverComputation)
+  [Libra](https://hackingdistributed.com/2020/02/12/libra/)
 
 - With transparent setups:  
   [Fractal](https://eprint.iacr.org/2019/1076.pdf),
