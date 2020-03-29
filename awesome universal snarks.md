@@ -60,16 +60,18 @@ Trade-offs between different options:
   
   
 Universality for a polynomial commitment scheme :   
-- language-specific: a polynomial commitment only proves one language
-- Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)  
+- ___language-specific: a polynomial commitment only proves one language___
+
+- ____Speed up by multi-opening solution,introduced by [Efficient polynomial commitment schemes formultiple points and polynomial](https://eprint.iacr.org/2020/081.pdf)____
 
 Discussion of universal succintness:
-- [universal arguments]:(https://eprint.iacr.org/2014/580.pdf),page 27,needs future improvements.
+-   ___[universal arguments]:(https://eprint.iacr.org/2014/580.pdf),page 27____ 
+-   \- needs future improvements.
 
-Definition of soundness :
-- standard definition of special soundness : Interact arbitrarily with an update oracle to set the SRS .
-- [interactive definition by Sonic](https://eprint.iacr.org/2019/099.pdf),page 5: given an initial one and update in one-shot fashion .
-
+Definition of soundness:  
+-   __standard definition of special soundness：Interact arbitrarily with an update oracle to set the SRS __  
+-   __[interactive definition by Sonic,page 5](https://eprint.iacr.org/2019/099.pdf)__
+    \- given an initial one and update in one-shot fashion.  
 Discussion of security models and hardness assumptions :
 -   __[updatable knowledge soundness,page 22](https://smeiklej.com/files/crypto18.pdf)__  
 -   __[KEA assumptions,page 18](https://smeiklej.com/files/crypto18.pdf)__  
