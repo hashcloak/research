@@ -82,7 +82,9 @@ Discussion of security and efficiency:
     \- construct circuits of extraction,then prove it with satisfied properties.  
        enhance efficiency by applying "universal succintness".  
 
-
+Diving into setup phase 
+- Discussion about transparent setup and universal setup and their use-cases 
+- CRS and SRS model 
 
 
 
