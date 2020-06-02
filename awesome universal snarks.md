@@ -85,7 +85,7 @@ Discussion of security and efficiency:
 Diving into setup phase 
 - Transparent Setup(no trapdoor , no toxic waste ,entirely based on public randomness,create CRS)
 
-- universal snarks(toxic waste, create SRS , run once and generated keys can be re-used for all future circuits)
+- universal Setup(toxic waste, create SRS , run once and generated keys can be re-used for all future circuits)
 
 
 
