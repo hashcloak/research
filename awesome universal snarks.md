@@ -83,8 +83,10 @@ Discussion of security and efficiency:
        enhance efficiency by applying "universal succintness".  
 
 Diving into setup phase 
-- Discussion about transparent setup and universal setup and their use-cases 
-- CRS and SRS model 
+- Transparent Setup(no trapdoor , no toxic waste ,entirely based on public randomness,create CRS)
+
+- universal snarks(toxic waste, create SRS , run once and generated keys can be re-used for all future circuits)
+
 
 
 
