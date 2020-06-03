@@ -87,6 +87,11 @@ Diving into setup phase
   
 - universal Setup(toxic waste, create SRS , run once and generated keys can be re-used for all future circuits)
   
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
