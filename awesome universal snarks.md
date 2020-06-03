@@ -88,10 +88,11 @@ Diving into setup phase
 - universal Setup(toxic waste, create SRS , run once and generated keys can be re-used for all future circuits)
   
 |               |               | updatable    |
-|               | Universal     | ------------:|
+|               | Universal     |:------------:|
 |   Setup       |:-------------:| non-updatable|
-|               | Transparent   | ------------:|
+|               | Transparent   |:------------:|
 |               |               |              |
+
 
 
 
