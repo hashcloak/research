@@ -1,3 +1,5 @@
+Proposal(framework) : https://hackmd.io/qQ63masMSdu9cxWxirwl2A
+
 ZkStudyClub: Polynomial Commitments with Justin Drake pt. 2
 - [cryptographic ingredient for universal SNARKs](https://www.youtube.com/watch?v=BfV7HBHXfC0&feature=youtu.be)
 
